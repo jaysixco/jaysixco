@@ -1,4 +1,3 @@
-### Hey, I'm Jay, an IT Professional!👋
 
 <!--
 **jaysixco/jaysixco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
