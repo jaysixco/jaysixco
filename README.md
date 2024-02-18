@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1>Hey, I'm Jay, an <a href="https://linkedin.com/in/jay-j-9386b9297">IT Professional!</a>☺</h1>👋
+<h1>Hey, I'm Jay, an <a href="https://linkedin.com/in/jay-j-9386b9297">IT Professional!👋</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
