@@ -12,6 +12,8 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/jaysixco/azure-network-protocols)
 - <b>VPN</b>
   - [Creating a VPN](https://github.com/jaysixco/creating-vpn)
+- <b>Traffic</b>
+  - [Monitoring Traffic](https://github.com/jaysixco/monitoring-traffic)
 
 <h2>🤳Connect with me:</h2>
 
