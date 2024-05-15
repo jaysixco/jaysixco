@@ -17,7 +17,7 @@
   - [Creating a VPN](https://github.com/jaysixco/creating-vpn)
 - <b>Traffic</b>
   - [Monitoring Traffic](https://github.com/jaysixco/monitoring-traffic)
-  - [Monitoring Traffic](https://github.com/jaysixco/monitoring-traffic-rd)
+  - [Monitoring Traffic Draft](https://github.com/jaysixco/monitoring-traffic-rd)
 
 <h2>🤳Connect with me:</h2>
 
