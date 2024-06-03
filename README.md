@@ -10,6 +10,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/jaysixco/post-install-config)
   - [osTicket: Post-Installation Configuration RD](https://github.com/jaysixco/post-install-config-rd)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/jaysixco/ticket-lifecycle)
+  - [osTicket: Ticket Lifecycle Examples RD](https://github.com/jaysixco/ticket-lifecycle-rd)
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/jaysixco/configure-ad)
   - [Creating a DNS record](https://github.com/jaysixco/creating-dns-record)
