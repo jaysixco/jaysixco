@@ -4,9 +4,9 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation RD RD](https://github.com/jaysixco/osticket-rd-rd)
-  - [osTicket: Post-Installation Configuration RD](https://github.com/jaysixco/post-install-config-rd)
-  - [osTicket: Ticket Lifecycle Examples RD](https://github.com/jaysixco/ticket-lifecycle-rd)
+  - [osTicket: Prerequisites and Installation](https://github.com/jaysixco/osticket-rd-rd)
+  - [osTicket: Post-Installation Configuration](https://github.com/jaysixco/post-install-config-rd)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/jaysixco/ticket-lifecycle-rd)
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/jaysixco/configure-ad)
   - [Creating a DNS record](https://github.com/jaysixco/creating-dns-record)
@@ -14,7 +14,7 @@
 - <b>VPN</b>
   - [Creating a VPN](https://github.com/jaysixco/creating-vpn)
 - <b>Traffic</b>
-  - [Monitoring Traffic Draft](https://github.com/jaysixco/monitoring-traffic-rd)
+  - [Monitoring Traffic](https://github.com/jaysixco/monitoring-traffic-rd)
 
 <h2>🤳Connect with me:</h2>
 
